@@ -7,5 +7,5 @@ Sou o 4prndz, estudante de Engenharia de Software
 - 🤔 Preciso de ajuda com TUDO 
 - 📫 Nao procure me contatar
 - 😄 Ele/Dele
-- ⚡  Pro-player de campo-minado
+- ⚡  Tenho pedra no rim
 
