@@ -2,6 +2,6 @@
 
 Sou o 4prndz, estudante de Engenharia de Software
 
-- 🔭 Estudante da UTFPR
-- 🌱 Aprendendo PHP, JAVA e C++
+- 🔭 Engenharia de Software
+- 🌱 Aprendendo JAVA, PHP e C++
 
