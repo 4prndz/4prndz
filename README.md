@@ -1,7 +1,8 @@
-### Hi there 👋
+## Sobre mim
 
-Sou o 4prndz, estudante de Engenharia de Software
-
-- 🔭 Engenharia de Software
-- 🌱 Aprendendo JAVA, PHP e C++
+* **Name**: Victor Kouichi
+* **Age**: 18
+* **Living in**: Cornélio Procópio
+* **Stack**: Java - PHP - Bootstrap - SQL
+* **University**: UTFPR
 
